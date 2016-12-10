@@ -13,15 +13,21 @@ body
 {
 	background-image: url('../square-abstract.jpg');
 	height: 500px;
+	
+}
+
+.section_image_2
+{
+	background-image: url('../bigstock-Abstract.jpg');
+	height: 500px;
 }
 
 .section_div_1
 {
-	position: relative;
-	left: 40%;
+	margin: 0 auto !important;
 }
 
-.section_img_2
+.section_img_1
 {
 	height: 300px;
 	width: 250px;
@@ -54,6 +60,15 @@ body
 	color:white;
 	font-family:cursive;
 }
+
+
+.my_text_2
+{
+	color:black;
+	font-family:cursive;
+}
+
+
 
 input
 {
