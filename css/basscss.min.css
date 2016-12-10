@@ -8,6 +8,7 @@
 body
 {
 	background: black;
+    font-family: cursive !important;
 }
 .section_image
 {
@@ -35,12 +36,31 @@ body
 .section_2_image_1
 {
 	background-image: url('../bigstock-Abstract.jpg');
-	height: 550px;
+	height: 1000px;
 }
 
 .section_div_1
 {
 	margin: 0 auto !important;
+}
+
+.aside_1
+{
+    height:500px;
+    width:515px;
+    /*border:1px solid black;*/
+    margin-top:15px;
+
+}
+
+.aside_1_inner
+{
+    height:300px;
+    width:450px;
+    /*border:1px solid black;*/
+    margin:0 auto;
+    margin-top:20px;
+    background: url("../rsz_abc.jpg");
 }
 
 .section_2_image_2
