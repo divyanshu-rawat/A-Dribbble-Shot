@@ -37,6 +37,7 @@ body
 {
 	background-image: url('../bigstock-Abstract.jpg');
 	height: 1000px;
+    
 }
 
 .section_div_1
@@ -47,20 +48,24 @@ body
 .aside_1
 {
     height:500px;
-    width:515px;
-    /*border:1px solid black;*/
     margin-top:15px;
+
+}
+
+img{
+
+    width:100% !important;
+    height:100% !important;
+    display:block;
 
 }
 
 .aside_1_inner
 {
-    height:300px;
-    width:450px;
-    /*border:1px solid black;*/
+    height:270px;
     margin:0 auto;
     margin-top:20px;
-    background: url("../rsz_abc.jpg");
+    /* background: url("../rsz_abc.jpg"); */
 }
 
 .section_2_image_2
@@ -91,6 +96,23 @@ body
     background: url('../psd-chat-icon-clip-art.png');
     /*opacity: .9;*/
 } 
+
+.my_nav
+{
+    /* border:1px solid black; */
+    height:150px;
+    margin-top:3%;
+    margin-left: 2%;
+    box-shadow: 4px 4px 4px 4px #7e7e7e;
+    border-radius: 5px;
+}
+
+.section_3
+{
+    background:white;
+    border:1px solid black;
+    height: 300px;
+}
 
 
 .my_tag
