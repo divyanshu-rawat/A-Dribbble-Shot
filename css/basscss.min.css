@@ -97,6 +97,18 @@ img{
     /*opacity: .9;*/
 } 
 
+img
+{
+    border-radius: 5px;
+}
+
+.section_4
+{
+    height: 800px;
+    border: 1px solid white;
+}
+
+
 .my_nav
 {
     /* border:1px solid black; */
