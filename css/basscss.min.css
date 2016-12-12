@@ -93,6 +93,7 @@ img{
     height: 300px;
     margin-top: 10px !important;
     margin:0 auto;
+        /*box-shadow: 2px 2px 2px 2px #191919;*/
 }
 
 .section_1_image_2
@@ -114,11 +115,25 @@ img
 .section_4
 {
     height: 600px;
-    border: 1px solid white;
+    /*border: 1px solid white;*/
+  
     background: url('../brief_final.png');
     background-repeat: no-repeat;
-        background-size:100% auto;
+    background-size:100% auto;
+      background-color: white;
+
 }
+
+.section_5
+{
+    height: 600px;
+    background: white;
+    /*border: 1px solid white;*/
+    /*background: url('../brief_final.png');*/
+    /*background-repeat: no-repeat;*/
+        /*background-size:100% auto;*/
+}
+
 
 
 .my_nav
@@ -127,7 +142,18 @@ img
     height:180px;
     margin-top:3%;
     margin-left: 2%;
-/*    box-shadow: 4px 4px 4px 4px #7e7e7e;*/
+    box-shadow: 2px 2px 2px 1px #323232;
+    border-radius: 5px;
+}
+
+
+.my_nav_3
+{
+    /* border:1px solid black; */
+    height:180px;
+    margin-top:3%;
+    margin-left: 14%;
+    box-shadow: 2px 2px 2px 1px #323232;
     border-radius: 5px;
 }
 
