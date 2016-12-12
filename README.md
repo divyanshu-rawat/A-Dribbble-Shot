@@ -13,11 +13,11 @@
 
 * Cd into that root folder you just cloned locally.
 
-* launch index.html file :exclamation:
+* launch index.html file 
 
 ### Dependencies
 
-* Base css  :exclamation:
+* Base css  
 
 
 ### Example
