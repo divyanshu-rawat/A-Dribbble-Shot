@@ -7,7 +7,7 @@
 }
 body
 {
-	background: black;
+	background: white;
     font-family: cursive !important;
 }
 .section_image
@@ -51,7 +51,8 @@ body
 {
 	/*background-image: url('../bigstock-Abstract.jpg');*/
 	height: 1200px;
-    /*border:1px solid red;*/
+    background: white;
+    border:1px solid red;
     
 }
 
@@ -78,8 +79,9 @@ body
 
 .aside_1
 {
-    height:500px;
-    margin-top:15px;
+    height:600px;
+    margin-top:5px;
+    /* border: 1px solid black; */
 
 }
 
@@ -93,17 +95,21 @@ img{
 
 .aside_1_inner
 {
-    height:300px;
+    height:410px;
     margin:0 auto;
-    margin-top:20px;
-    /* background: url("../rsz_abc.jpg"); */
+    margin-top:4% !important;
+    background: url("../abcd.png");
+     background-size:100% auto;
+    background-repeat: no-repeat;
+    /* border: 1px solid black; */
+
 }
 
 .section_2_image_2
 {
-	height: 400px;
-	width: 50%;
-	/*border: 1px solid white;*/
+	height: 340px;
+	width: 40%;
+	/* border: 1px solid black; */
 	margin-top: 15px !important;
     margin:0 auto;
 }
@@ -259,15 +265,13 @@ img
 
 .my_text
 {
-	color:white;
-	font-family:cursive;
+	font-family:cursive !important;
 }
 
 
 .my_text_2
 {
-	color:white;
-	font-family:cursive;
+	font-family:cursive !important;
 }
 
 
