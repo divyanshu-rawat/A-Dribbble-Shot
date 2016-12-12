@@ -43,7 +43,7 @@ body
     height: 800px;
     /* width: 100% !important; */
     /* border: 1px solid red; */
-    background: url('../brief_final_2.png');
+    background: url('../img/brief_final_2.png');
     background-repeat: no-repeat;
      background-size:100% auto;
 }
@@ -59,7 +59,7 @@ body
 .section_div_1
 {
 	margin: 0 auto !important;
-    background-image: url('../brief_final_section_2.png');
+    background-image: url('../img/brief_final_section_2.png');
     height: 400px;
     background-size:100% auto;
     background-repeat: no-repeat;
@@ -98,7 +98,7 @@ img{
     height:410px;
     margin:0 auto;
     margin-top:4% !important;
-    background: url("../abcd.png");
+    background: url("../img/abcd.png");
      background-size:100% auto;
     background-repeat: no-repeat;
     /* border: 1px solid black; */
@@ -129,7 +129,7 @@ img{
     border: 1px solid white;
     margin-top: 10px !important;
     margin:0 auto;
-    background: url('../psd-chat-icon-clip-art.png');
+    background: url('../img/psd-chat-icon-clip-art.png');
     /*opacity: .9;*/
 } 
 
@@ -143,7 +143,7 @@ img
     height: 600px;
     /*border: 1px solid white;*/
     margin-top: 8%;
-    background: url('../brief_final.png');
+    background: url('../img/brief_final.png');
     background-repeat: no-repeat;
     background-size:100% auto;
       background-color: white;
