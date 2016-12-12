@@ -38,7 +38,15 @@ body
 }
 
 
-
+.section_6
+{
+    height: 800px;
+    /* width: 100% !important; */
+    /* border: 1px solid red; */
+    background: url('../brief_final_2.png');
+    background-repeat: no-repeat;
+     background-size:100% auto;
+}
 .section_2_image_1
 {
 	/*background-image: url('../bigstock-Abstract.jpg');*/
@@ -50,11 +58,23 @@ body
 .section_div_1
 {
 	margin: 0 auto !important;
-    background-image: url('../rsz_chatbox-logo.jpg');
-    height: 800px;
+    background-image: url('../brief_final_section_2.png');
+    height: 400px;
     background-size:100% auto;
     background-repeat: no-repeat;
 }
+
+
+.section__div
+{
+    margin: 0 auto !important;
+    /* background-image: url('../brief_final_section_2.png'); */
+    height: 300px;
+    /* background-size:100% auto; */
+    /* background-repeat: no-repeat; */
+    background: #435EF6;
+}
+
 
 .aside_1
 {
@@ -126,7 +146,7 @@ img
 
 .section_5
 {
-    height: 600px;
+    height: 400px;
     background: white;
     /*border: 1px solid white;*/
     /*background: url('../brief_final.png');*/
@@ -141,8 +161,9 @@ img
     /* border:1px solid black; */
     height:180px;
     margin-top:3%;
-    margin-left: 2%;
-    box-shadow: 2px 2px 2px 1px #323232;
+    width: 20% !important;
+    margin-left: 8%;
+    /*box-shadow: 2px 2px 2px 1px #323232;*/
     border-radius: 5px;
 }
 
@@ -153,9 +174,18 @@ img
     height:180px;
     margin-top:3%;
     margin-left: 14%;
-    box-shadow: 2px 2px 2px 1px #323232;
+    /*box-shadow: 2px 2px 2px 1px #323232;*/
     border-radius: 5px;
 }
+
+.section_6_inner
+{
+    height:180px;
+    margin-top:44%;
+    margin-left:38%;
+    background:#fcd08c;
+}
+
 
 .my_nav_2
 {
@@ -168,14 +198,15 @@ img
     height: 330px;
     margin-top:9%;
     margin-left:10%;
-    background:#eee;
+    background:#f3f3f4;
     color:#4c4c4c;
+    border: none;
 }
 
 
 .section_3
 {
-    border:1px solid black;
+    /*border:1px solid black;*/
     height: 300px;
 }
 
@@ -191,11 +222,37 @@ img
 
 }
 
+
+.my_style
+{
+    opacity:.8 ;
+    color:white;
+}
+
 .my_tag:hover
 {
 	opacity: .7;
 
 }
+
+img
+{
+    border-radius: 5px;
+}
+
+.my_btn
+{
+    background: black;
+    color:white;
+    font-weight:bold;
+    border:none;
+}
+
+.p_black
+{
+    color: black !important;
+}
+
 
 
 
