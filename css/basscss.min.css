@@ -50,9 +50,9 @@ body
 .section_2_image_1
 {
 	/*background-image: url('../bigstock-Abstract.jpg');*/
-	height: 1200px;
+	height: 1550px;
     background: white;
-    border:1px solid red;
+    /* border:1px solid red; */
     
 }
 
@@ -142,7 +142,7 @@ img
 {
     height: 600px;
     /*border: 1px solid white;*/
-  
+    margin-top: 8%;
     background: url('../brief_final.png');
     background-repeat: no-repeat;
     background-size:100% auto;
@@ -165,7 +165,7 @@ img
 .my_nav
 {
     /* border:1px solid black; */
-    height:180px;
+    height:120px;
     margin-top:3%;
     width: 20% !important;
     margin-left: 8%;
