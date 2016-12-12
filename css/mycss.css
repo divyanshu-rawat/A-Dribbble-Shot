@@ -80,7 +80,7 @@ body
 .aside_1
 {
     height:600px;
-    margin-top:5px;
+    margin-top:3%;
     /* border: 1px solid black; */
 
 }
@@ -232,7 +232,6 @@ img
 .my_style
 {
     opacity:.8 ;
-    color:white;
 }
 
 .my_tag:hover
