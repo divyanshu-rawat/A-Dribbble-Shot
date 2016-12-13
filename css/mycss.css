@@ -229,7 +229,7 @@ img
 	background: #70DACD;
     width: 250px;
     padding: 13px;
-    opacity: .9;
+    /* opacity: .9; */
     color: black;
     border: 1px solid #70DACD;
     font-weight:bold;
@@ -237,11 +237,6 @@ img
 
 }
 
-
-.my_style
-{
-    opacity:.8 ;
-}
 
 .my_tag:hover
 {
