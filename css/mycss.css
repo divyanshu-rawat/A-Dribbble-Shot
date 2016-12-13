@@ -1,9 +1,16 @@
 /*! Basscss | http://basscss.com | MIT License */
 
-.bg-black
+.bg-blue
 {
-	background: black;
+	background: #435EF6;
 	color: white;
+    /* margin-left: 8px !important; */
+    /* margin-right: 8px !important; */
+    width: 98.8% !important;
+    margin-bottom:8px !important ;
+    height: 55px;
+    /* border: 1px solid black; */
+    margin-top: -8px;
 }
 body
 {
@@ -219,12 +226,14 @@ img
 
 .my_tag
 {
-	background: black;
+	background: #70DACD;
     width: 250px;
-    padding: 8px;
+    padding: 13px;
     opacity: .9;
-    color: white;
-    border: 2px solid black;
+    color: black;
+    border: 1px solid #70DACD;
+    font-weight:bold;
+    border-radius: 2px !important;
 
 }
 
@@ -245,13 +254,7 @@ img
     border-radius: 5px;
 }
 
-.my_btn
-{
-    background: black;
-    color:white;
-    font-weight:bold;
-    border:none;
-}
+
 
 .p_black
 {
@@ -277,7 +280,7 @@ img
 
 input
 {
-	padding: 10px;
+	padding: 15px;
 	border-radius: 2px;
 	opacity: 1;
 	width: 250px;
