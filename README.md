@@ -26,41 +26,11 @@
 
 ### Example
 
-> 1st Page
+> Inspiration
 
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(21).png
+![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/inspiration/brief_final.png
 )
 
-> 2nd Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(22).png
-)
-
-> 3rd Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(23).png
-)
-
-> 4th Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(24).png
-)
-
-> 5th Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(25).png
-)
-
-
-> 6th Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(26).png
-)
-
-> 6th Page
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/snapshots/Screenshot%20(27).png
-)
 
 
 
