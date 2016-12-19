@@ -196,6 +196,8 @@ img
     height:180px;
     margin-top:44%;
     margin-left:38%;
+    /*display: flex;*/
+    /*align-items: flex-end !important;*/
     background:#fcd08c;
 }
 
