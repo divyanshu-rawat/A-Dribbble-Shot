@@ -24,13 +24,6 @@
 * Base css  
 
 
-### Example
-
-> Inspiration
-
-![alt tag](https://github.com/divyanshu-rawat/Basecss/blob/master/inspiration/brief_final.png
-)
-
 
 
 
