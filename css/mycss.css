@@ -94,9 +94,10 @@ body
 
 img{
 
-    width:100% !important;
-    height:100% !important;
+    width:100% ;
+    height:100% ;
     display:block;
+     border-radius: 5px;
 
 }
 
@@ -114,7 +115,7 @@ img{
 
 .section_2_image_2
 {
-	height: 340px;
+	height: 200px;
 	width: 40%;
 	/* border: 1px solid black; */
 	margin-top: 15px !important;
@@ -123,7 +124,7 @@ img{
 
 .section_2_inner
 {
-    height: 300px;
+    height: 110px;
     margin-top: 10px !important;
     margin:0 auto;
         /*box-shadow: 2px 2px 2px 2px #191919;*/
@@ -140,10 +141,6 @@ img{
     /*opacity: .9;*/
 } 
 
-img
-{
-    border-radius: 5px;
-}
 
 .section_4
 {
@@ -246,10 +243,6 @@ img
 
 }
 
-img
-{
-    border-radius: 5px;
-}
 
 
 
