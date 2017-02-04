@@ -33,7 +33,6 @@
 
 ##
 
-
 ### Contributing
 
 1. Create your **_branch_**: `git checkout -b my-new-feature`
