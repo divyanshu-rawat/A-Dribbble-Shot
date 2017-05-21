@@ -1,7 +1,7 @@
 
 ### Insipiration 
 
-[Click me !] (https://dribbble.com/shots/3041998-Brief-Landing-Page/attachments/638377)
+[Click me](https://dribbble.com/shots/3041998-Brief-Landing-Page/attachments/638377)
 
 ##
 
