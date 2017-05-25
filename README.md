@@ -11,7 +11,7 @@
 
 ### Demo 
 
-> [Live Demo Here !] (https://adribbbledesign.herokuapp.com/)
+> [Live Demo Here !](https://adribbbledesign.herokuapp.com/)
 
 ##
 
