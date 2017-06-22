@@ -1,11 +1,4 @@
-
-### Insipiration 
-
-[Click me](https://dribbble.com/shots/3041998-Brief-Landing-Page/attachments/638377)
-
 ##
-
-[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](https://adribbbledesign.herokuapp.com/)
 
 [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/divyanshu001)
 [![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/divyanshurawat?utm_source=github&utm_medium=button&utm_term=divyanshurawat&utm_campaign=github)
@@ -14,8 +7,13 @@
 
 [![Divyanshu](https://img.shields.io/badge/divyanshu-owner-brightgreen.svg?style=flat)](http://www.divyanshurawat.in)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
-[![Build Status](https://travis-ci.org/divyanshu-rawat/JS-Testing.svg?branch=master)](https://travis-ci.org/divyanshu-rawat/JS-Testing)
-[![NPM](https://img.shields.io/badge/npm-v3.10.10-blue.svg)](https://www.npmjs.com/package/npm)
+[![Live Demo Here](https://img.shields.io/badge/website-up-orange.svg)](https://adribbbledesign.herokuapp.com/)
+
+##
+
+### Insipiration 
+
+[Click me](https://dribbble.com/shots/3041998-Brief-Landing-Page/attachments/638377)
 
 ##
 
